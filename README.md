@@ -3,7 +3,7 @@
 ![Substitua a imagem ao lado por um screenshot do seu projeto](https://github.com/elc1090/project2-2024a-anthony-e-luizfelipe-quotable-api/blob/main/img-api.png)
 
 
-Acesso: https://project2-2024a-anthony-e-luizfelipe-quotable-api.vercel.app/
+Acesso: https://quotable-api.vercel.app/
 
 
 ### Desenvolvedores
