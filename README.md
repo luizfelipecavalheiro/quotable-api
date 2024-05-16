@@ -1,6 +1,6 @@
 # Projeto: Consumindo uma API pública
 
-![Substitua a imagem ao lado por um screenshot do seu projeto](https://github.com/elc1090/project2-2024a-anthony-e-luizfelipe-quotable-api/blob/main/img-api.png)
+![Substitua a imagem ao lado por um screenshot do seu projeto](https://github.com/luizfelipecavalheiro/quotable-api/blob/main/img-api.png)
 
 
 Acesso: https://quotable-api.vercel.app/
